@@ -13,7 +13,7 @@
     "@types/react": "^16.8.23",
     "@types/react-dom": "^16.8.4",
     "@zeit/next-css": "^1.0.1",
-    "graphiql": "^0.13.2",
+    "graphiql": "^1.4.7",
     "graphql": "^14.4.2",
     "ignore-loader": "^0.1.2",
     "isomorphic-fetch": "^2.2.1",
